@@ -1,3 +1,4 @@
+
 //全局变量
 var sketchpad = document.getElementById('sketchpad')
 var ctx = sketchpad.getContext('2d')
